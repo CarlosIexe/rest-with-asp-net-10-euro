@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usradminoefb\\Documents\\Projetos\\ASP.NET\\pratica\\rest-with-asp-net-10-euro\\RestwithASPNET10Euro_Scaffold\\RestwithASPNET10Euro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67A6F858-2AF9-6062-0D58-85FFD530708B}|RestwithASPNET10Euro\\RestwithASPNET10Euro.csproj|c:\\users\\usradminoefb\\documents\\projetos\\asp.net\\pratica\\rest-with-asp-net-10-euro\\restwithaspnet10euro_scaffold\\restwithaspnet10euro\\restwithaspnet10euro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67A6F858-2AF9-6062-0D58-85FFD530708B}|RestwithASPNET10Euro\\RestwithASPNET10Euro.csproj|solutionrelative:restwithaspnet10euro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67A6F858-2AF9-6062-0D58-85FFD530708B}|RestwithASPNET10Euro\\RestwithASPNET10Euro.csproj|c:\\users\\usradminoefb\\documents\\projetos\\asp.net\\pratica\\rest-with-asp-net-10-euro\\restwithaspnet10euro_scaffold\\restwithaspnet10euro\\restwithaspnet10euro\\restwithaspnet10euro.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{67A6F858-2AF9-6062-0D58-85FFD530708B}|RestwithASPNET10Euro\\RestwithASPNET10Euro.csproj|solutionrelative:restwithaspnet10euro\\restwithaspnet10euro.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\usradminoefb\\Documents\\Projetos\\ASP.NET\\pratica\\rest-with-asp-net-10-euro\\RestwithASPNET10Euro_Scaffold\\RestwithASPNET10Euro\\RestwithASPNET10Euro\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestwithASPNET10Euro\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\usradminoefb\\Documents\\Projetos\\ASP.NET\\pratica\\rest-with-asp-net-10-euro\\RestwithASPNET10Euro_Scaffold\\RestwithASPNET10Euro\\RestwithASPNET10Euro\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestwithASPNET10Euro\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-20T19:08:35.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestwithASPNET10Euro.http",
+              "DocumentMoniker": "C:\\Users\\usradminoefb\\Documents\\Projetos\\ASP.NET\\pratica\\rest-with-asp-net-10-euro\\RestwithASPNET10Euro_Scaffold\\RestwithASPNET10Euro\\RestwithASPNET10Euro\\RestwithASPNET10Euro.http",
+              "RelativeDocumentMoniker": "RestwithASPNET10Euro\\RestwithASPNET10Euro.http",
+              "ToolTip": "C:\\Users\\usradminoefb\\Documents\\Projetos\\ASP.NET\\pratica\\rest-with-asp-net-10-euro\\RestwithASPNET10Euro_Scaffold\\RestwithASPNET10Euro\\RestwithASPNET10Euro\\RestwithASPNET10Euro.http",
+              "RelativeToolTip": "RestwithASPNET10Euro\\RestwithASPNET10Euro.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-07-20T19:03:02.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

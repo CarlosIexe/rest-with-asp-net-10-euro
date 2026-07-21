@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "YwpgeySUBZE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usradminoefb\\Documents\\Projetos\\ASP.NET\\pratica\\rest-with-asp-net-10-euro\\RestwithASPNET10Euro_Scaffold\\RestwithASPNET10Euro\\RestwithASPNET10Euro\\RestwithASPNET10Euro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usradminoefb\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.10\\microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
+    "C:\\Users\\usradminoefb\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "O pacote 'Microsoft.OpenApi' 2.0.0 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\usradminoefb\\Documents\\Projetos\\ASP.NET\\pratica\\rest-with-asp-net-10-euro\\RestwithASPNET10Euro_Scaffold\\RestwithASPNET10Euro\\RestwithASPNET10Euro\\RestwithASPNET10Euro.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\usradminoefb\\Documents\\Projetos\\ASP.NET\\pratica\\rest-with-asp-net-10-euro\\RestwithASPNET10Euro_Scaffold\\RestwithASPNET10Euro\\RestwithASPNET10Euro\\RestwithASPNET10Euro.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}
